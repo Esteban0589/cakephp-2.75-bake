@@ -78,8 +78,7 @@ class DATABASE_CONFIG {
 		//'encoding' => 'utf8',
 		//*/
 	);
-
-
+//Ramacakebake
 	public $test = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
