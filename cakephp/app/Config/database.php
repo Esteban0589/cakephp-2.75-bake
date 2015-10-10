@@ -79,7 +79,6 @@ class DATABASE_CONFIG {
 		//*/
 	);
 
-
 	public $test = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
